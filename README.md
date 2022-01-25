@@ -4,7 +4,7 @@
 ![blockchain_image](Resources/blockchain_image.png)
 
 
-BlockChain based ledger system with user friendly web interface. This web app is a demonstration of some of the core concepts that are common in Permission-less Public Blockchains with a Consensus protocol for adding new blocks. I have tried to build the demonstration to be interactive and fun. 
+BlockChain based ledger system with a user friendly web interface. This web app is a demonstration of some of the core concepts that are common in Permission-less Public Blockchains with a Consensus protocol for adding new blocks. I have tried to build the demonstration to be interactive and fun. 
 
 
 ## Technologies
