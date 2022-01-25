@@ -62,11 +62,11 @@ MIT
 # Preview of BlockChain-Ledger
 
 
-### Gif of working Blockchain
+### Working Blockchain
 
 ![chain_image](Resources/chain_image.png)
 
-### Gif of working Validation function
+### Working Validation function
 
 ![validate_chain](Resources/validate_chain.png)
 
