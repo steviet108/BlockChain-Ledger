@@ -64,10 +64,10 @@ MIT
 
 ### Gif of working Blockchain
 
-![chain_image](../Resources/chain_image.png)
+![chain_image](Resources/chain_image.png)
 
 ### Gif of working Validation function
 
-![validate_chain](../Resources/validate_chain.png)
+![validate_chain](Resources/validate_chain.png)
 
 ---
